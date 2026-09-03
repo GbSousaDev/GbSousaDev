@@ -13,9 +13,6 @@ I have intermediate English (reading and writing), which allows me to follow int
 
 I'm driven by continuous learning and looking for opportunities to put my skills into practice, grow professionally, and contribute with dedication to development teams.
 
-Let's connect! I'm open to networking, knowledge exchange, and opportunities in tech!
-
-
 
 ---
 
