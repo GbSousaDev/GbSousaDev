@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**GbSousaDev/GbSousaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<sub>GbSousaDev / README.md</sub>
 
-Here are some ideas to get you started:
+# System.out.println("My Name is Gabriel Sousa");
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" />
+
+### Full Stack Developer • Java & Spring Boot
+
+☕ I love coffee
+🚀 Always learning something new
+🎓 Fourth period Computer Science
+
+---
+
+</div>
